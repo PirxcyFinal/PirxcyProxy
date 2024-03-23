@@ -11,3 +11,8 @@
     <img src="https://raw.githubusercontent.com/PirxcyFinal/PirxcyProxy/main/demo.png">
   </a>
 </div>
+---------------------------------------
+### ⚙️ PirxcyProxy :
+- Any Display Name! (Creative Only)
+- Load into any gamemode!
+- Every Single Cosmetic!
