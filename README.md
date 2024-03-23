@@ -8,7 +8,7 @@
 ---------------------------------------
 <div align="center">
   <a href="https://github.com/PirxcyFinal/PirxcyProxy">
-    <img src="https://raw.githubusercontent.com/PirxcyFinal/PirxcyProxy/main/demo.png">
+    <img src="https://raw.githubusercontent.com/PirxcyFinal/PirxcyProxy/main/preview.png">
   </a>
 </div>
 ---------------------------------------
